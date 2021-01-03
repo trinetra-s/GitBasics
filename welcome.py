@@ -1,1 +1,1 @@
-print('Weclome To Python1')
+print('Weclome To Python')
